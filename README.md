@@ -1,2 +1,2 @@
-§# Crackers
-§# A Virtual Christmas Cracker
+# Crackers
+# A Virtual Christmas Cracker
